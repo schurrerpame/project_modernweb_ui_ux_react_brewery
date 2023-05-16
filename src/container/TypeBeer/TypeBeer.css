@@ -1,0 +1,66 @@
+.app__typebeer {
+    background: var(--color-black);
+    flex-direction: column;
+}
+
+.app__typebeer-title {
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.app__typebeer-content {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    margin: 3rem 0;
+
+
+}
+
+.app__typebeer-imgBeer {
+    padding: 0 2rem;
+    flex: 2;
+
+}
+
+.app__typebeer-imgBeer img {
+    max-width: 100%;
+}
+
+.app__typebeer-type {
+    align-items: flex-start;
+    text-align: left;
+    flex: 1.5;
+
+
+}
+
+.app__typebeer-type-ipa,
+.app__typebeer-type-apa {
+    margin-bottom: 3rem;
+
+
+}
+
+.app__typebeer-type-ipa .p__cormorant,
+.app__typebeer-type-apa .p__cormorant {
+
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 2rem;
+
+}
+
+@media(max-width: 960px) {
+    .app__typebeer-content {
+        flex-direction: column;
+    }
+
+    .app__typebeer-type {
+        margin-top: 3rem;
+    }
+
+}

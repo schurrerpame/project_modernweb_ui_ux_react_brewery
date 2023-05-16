@@ -1,0 +1,15 @@
+.app__typebeer-beeritem{
+    font-size: 1rem;
+    margin-bottom: .5rem;
+}
+
+.app__typebeer-beeritem span{
+font-weight: bold;
+}
+
+@media(max-width: 460px) {
+    .app__typebeer-beeritem{
+        font-size: 1rem;
+        margin-bottom: .8rem;
+    } 
+}
