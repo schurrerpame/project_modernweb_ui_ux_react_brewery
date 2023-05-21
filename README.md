@@ -10,7 +10,6 @@ The design of this website was initially developed by ICONIC DESIGN. We have mad
 #### All images and the logo have been generated using artificial intelligence.
 
 
-
 ## Live Demo
 Check out the live version of this website in production: [Live Demo](https://pameschurrer.es/tratany/)
 
@@ -24,18 +23,6 @@ Check out the live version of this website in production: [Live Demo](https://pa
 - Artificial intelligence-generated images and logo
 
 
-
-## Getting Started
-To get a local copy of this project up and running, follow these steps:
-
-Clone the repository
-Install the necessary dependencies
-Start the development server
-
-
-
-## Contact
-For any inquiries or feedback, please reach out to us at info@pameschurrer.com
 
 
 ![sitio](https://pameschurrer.es/tratany/web.png)
